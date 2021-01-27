@@ -1,0 +1,195 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+nav {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: center;
+	padding: 10px 0; 
+	background-color: white;
+}
+
+nav img {
+	width: 60px;
+}
+
+nav ol {
+	display: flex;
+	list-style-type: none;
+	justify-content: space-around;
+	width: 70%;
+}
+
+nav li {
+	margin: 0 30px;
+}
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
+
+header h1 {
+	margin: 0;
+	color: white;
+	font-size: 500%;
+}
+
+header {
+	background-image: url(img/innsbruck1.jpg);
+	background-size: 100% 100%;
+	padding: 15%;
+}
+
+main {
+	width: 80%;
+	margin: 0 auto;
+}
+
+h2 {
+	color: darkblue;
+}
+
+p {
+	font-size: 12px;
+}
+
+li {
+	font-size: 12px;
+}
+
+figure {
+	border: 1px gray solid;
+	width: 100%;
+	margin: 0 auto;
+}
+
+figcaption {
+	background-color: gray;
+	text-align: center;
+	color: white;
+	padding: 7px 0;
+}
+
+.table {
+	display: flex;
+	align-items: center;
+}
+
+.ads {
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.ski-racer {
+	text-transform: uppercase;
+	background-color: white;
+	opacity: 0.7;
+	width: 40%;
+	margin: 40px 0 0 60%;
+	font-size: 7px;
+	padding: 1px;
+}	
+	
+aside {
+	background-image: url(img/skier.png);
+	background-size: 100% 100%;
+	width: 40%;
+}
+
+figure img {
+	width: 100%;
+} 
+
+.hofburg {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.hofburg img {
+	width: 60%;
+}
+
+.hofburg p {
+		background-color: #8FBC8F;
+		width: 40%;
+		margin: 0;
+		color: white;
+		text-align: center;
+		padding-top: 54px;
+		text-transform: uppercase;
+		font-weight: bold;
+}
+
+iframe {
+	width: 100%;
+}
+
+table {
+	border-collapse: collapse;
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+
+td,th {
+	border: 1px black solid;
+	text-align: center;
+}
+
+th {
+	background-color: darkblue;
+	color: white;
+}
+
+footer {
+	background-color: #8FBC8F;
+	display: flex;
+	justify-content: space-around;
+	padding: 20px;
+}
+
+.foxart { 
+	margin: 0;
+}
+
+.social a {
+	padding: 0 7px; 
+}
+
+.visit {
+	color: black;
+	text-transform: uppercase;
+	font-weight: bold;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
